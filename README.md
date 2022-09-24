@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-- 🔭 <h2> I’m currently studying at [<img align="center" alt="beetroot_academy" width="140px" src="./img/beetroot_academy.svg" />](https://www.youtube.com/) </h2>
+<li> - 🔭 I’m currently studying at [<img align="center" alt="beetroot_academy" width="140px" src="./img/beetroot_academy.svg" />](https://www.youtube.com/) </li>
 
 
 - 🔭 <h3><img align="center" height="30" src="https://user-images.githubusercontent.com/84743905/174507937-c8637dd7-5a10-4c12-bf23-945c7872ace2.png"> TECHNOLOGIES</h3>
