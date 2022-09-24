@@ -4,7 +4,7 @@
 
 <li> 🔭 I'm currently studying to be a front-end developer at <a href="https://beetrootacademy.com"> <img align="center" alt="beetroot_academy" width="140px" src="./img/beetroot_academy.svg"/> </a></li>
 <li> 🌱 I’m currently learning <img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> </li>
-<li>📫 How to reach me: <a href="mailto:dmytro.hordus@gmail.com"> email</a></li>
+<li>📫 How to reach me: <a href="mailto:dmytro.hordus@gmail.com"> <img align="center" alt="email" width="45px" src="./img/email.svg"/></a>.         </li>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
