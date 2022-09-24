@@ -1,6 +1,6 @@
 ### Hi there 👋
 
----
+
 
 <li> 🔭 I'm currently studying to be a front-end developer at <a href="https://beetrootacademy.com"><img align="center" alt="beetroot_academy" width="140px" src="./img/beetroot_academy.svg"/> </a></li>
 <li> 🌱 I’m currently learning <img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> </li>
@@ -14,6 +14,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;"/>
+
+
 
 <!--
 **IsaacAzimovUA/IsaacAzimovUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
