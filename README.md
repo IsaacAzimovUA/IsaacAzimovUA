@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h3> - 🔭 I’m currently studying at [<img align="center" alt="beetroot_academy" width="140px" src="./img/beetroot_academy.svg" />](https://www.youtube.com/) </h3>
-
+<li> - 🔭 I’m currently studying at [<img align="center" alt="beetroot_academy" width="140px" src="./img/beetroot_academy.svg"/>](https://www.youtube.com/) </li>
+- 🔭 I’m currently working on ...
 
 <!--
 **IsaacAzimovUA/IsaacAzimovUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
