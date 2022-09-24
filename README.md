@@ -1,5 +1,5 @@
 ### Hi there 👋
-<li> 🔭 I’m currently studying at <a href="https://beetrootacademy.com"> <img align="center" alt="beetroot_academy" width="140px" src="./img/beetroot_academy.svg"/> </a></li>
+<li> 🔭 I'm currently studying to be a front-end web developer at <a href="https://beetrootacademy.com"> <img align="center" alt="beetroot_academy" width="140px" src="./img/beetroot_academy.svg"/> </a></li>
 <li> 🌱 I’m currently learning <img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> </li>
 
 <!--
