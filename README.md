@@ -2,7 +2,17 @@
 
 
 
-<li> 🔭 I graduated from <a href="https://beetrootacademy.com"><img align="center" alt="beetroot_academy" width="140px" src="./img/beetroot_academy.svg"/> </a> to become a front-end developer </li>
+<li> 🔭 I graduated from <a href="https://beetrootacademy.com"><picture>
+      <source width="90px"
+        srcset="./img/beetroot_academy-dark.svg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source width="90px"
+        srcset="./img/beetroot_academy.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="./img/beetroot_academy.svg" />
+    </picture> </a> to become a front-end developer </li>
 <li> 🌱 I’m currently learning <img align="center" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> </li>
 <li>📫 How to reach me: <a href="mailto:dmytro.hordus@gmail.com"> <img align="center" alt="email" width="26px" src="./img/email.svg"/></a><a href="https://www.linkedin.com/in/dmytro-hordus/"><img align="center" alt="linkedin" width="26px" src="./img/linkedin.svg"/></a></li>
 
