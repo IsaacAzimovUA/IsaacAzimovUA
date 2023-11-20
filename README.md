@@ -12,8 +12,8 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="./img/beetroot_academy.svg" />
-    </picture> </a> to become a front-end developer </li>
-<li> 🌱 I’m currently learning <img align="center" alt="PHP" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" /> </li>
+    </picture> </a> </li>
+<li> 🌱 I’m currently learning <img align="center" alt="laravel" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="padding-right:10px;" /> </li>
 <li>📫 How to reach me: <a href="mailto:dmytro.hordus@gmail.com"> <img align="center" alt="email" width="26px" src="./img/email.svg"/></a><a href="https://www.linkedin.com/in/dmytro-hordus/"><img align="center" alt="linkedin" width="26px" src="./img/linkedin.svg"/></a></li>
 
 ### Languages and Tools:
@@ -21,11 +21,22 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwindcss" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gulp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Nodejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PHP" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+<img align="left" alt="mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="padding-right:10px; " />
+<img align="left" alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+
+
+
+
+
+
 <!-- <img align="left" alt="Bootsrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" /> -->
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
 <!--<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
