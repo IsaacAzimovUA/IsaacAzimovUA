@@ -14,7 +14,7 @@
       <img src="./img/beetroot_academy.svg" />
     </picture> </a> </li>
 <li> 🌱 I’m currently learning <img align="center" alt="laravel" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="padding-right:10px;" /> </li>
-<li>📫 How to reach me: <a href="mailto:dmytro.hordus@gmail.com"> <img align="center" alt="email" width="26px" src="./img/email.svg"/></a><a href="https://www.linkedin.com/in/dmytro-hordus/"><img align="center" alt="linkedin" width="26px" src="./img/linkedin.svg"/></a></li>
+<li>📫 How to reach me:<a href="https://www.linkedin.com/in/dmytro-hordus/"><img align="center" alt="linkedin" width="26px" src="./img/linkedin.svg"/></a></li>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
