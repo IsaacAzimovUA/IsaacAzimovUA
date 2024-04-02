@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 <li> 🔭 I graduated from <a href="https://beetrootacademy.com"><picture>
       <source width="90px"
         srcset="./img/beetroot_academy-dark.svg"
@@ -13,10 +11,26 @@
       />
       <img src="./img/beetroot_academy.svg" />
     </picture> </a> </li>
-<li> 🌱 I’m currently learning <img align="center" alt="laravel" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" /> </li>
+<li> 🌱 I’m currently learning 
+<picture>
+      <source 
+        width="26px"
+        srcset="./img/express-dark.svg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        width="26px"
+        srcset="./img/express-light.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="top" src="./img/express-light.svg" />
+</picture>
+
+</li>
 <li>📫 How to reach me:<a href="https://www.linkedin.com/in/dmytro-hordus/"><img align="center" alt="linkedin" width="26px" src="./img/linkedin.svg"/></a></li>
 
 ### Languages and Tools:
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -28,7 +42,6 @@
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Nodejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PHP" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PHP" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="padding-right:10px;" />
 <img align="left" alt="mysql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px; " />
@@ -44,7 +57,7 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="./img/terminal-light.svg" />
-    </picture>
+</picture>
 <picture>
       <source 
         srcset="./img/terminal-dark.svg"
@@ -71,4 +84,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
