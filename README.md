@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-<li> 🔭 I graduated from <a href="https://beetrootacademy.com"><picture>
-      <source width="90px"
+<li> 🔭 I graduated from: <a href="https://beetrootacademy.com"><picture>
+      <source width="96px"
         srcset="./img/beetroot_academy-dark.svg"
         media="(prefers-color-scheme: dark)"
       />
-      <source width="90px"
+      <source width="96px"
         srcset="./img/beetroot_academy.svg"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="./img/beetroot_academy.svg" />
+      <img align="top" src="./img/beetroot_academy.svg" />
     </picture> </a> </li>
-<li> 🌱 I’m currently learning 
+<li> 🌱 I’m currently learning: 
 <picture>
       <source 
         width="26px"
@@ -27,7 +27,7 @@
 </picture>
 
 </li>
-<li>📫 How to reach me:<a href="https://www.linkedin.com/in/dmytro-hordus/"><img align="center" alt="linkedin" width="26px" src="./img/linkedin.svg"/></a></li>
+<li>📫 How to reach me: <a href="https://www.linkedin.com/in/dmytro-hordus/"><img align="top" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a></li>
 
 ### Languages and Tools:
 
