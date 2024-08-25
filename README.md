@@ -6,7 +6,7 @@ I'm a passionate full-stack developer with a focus on creating innovative web so
 
 ### 🏆 Highlights
 
-- 🔭 **Portfolio Projects:** Check out my [3D Interactive Portfolio Website](https://isaacazimovua.github.io/portfolio_website/).
+- 🔭 **Portfolio Projects:** Check out my [3D Interactive Portfolio Website](https://isaacua.github.io/portfolio_website/).
 - 🌱 **Currently Learning:** Expanding my knowledge in advanced web technologies and exploring new tools to enhance my development skills.
 
 ### 🌐 Connect with Me
